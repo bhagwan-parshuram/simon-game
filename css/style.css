@@ -1,0 +1,40 @@
+* {
+  font-family: serif;
+  box-sizing: border-box;
+}
+body .body {
+  background-color: rgb(230, 225, 217);
+}
+body .gap {
+  height: 100px;
+  display: block;
+  margin: auto;
+  width: 40%;
+}
+.gap p {
+  margin: 0px;
+}
+#body .div1 {
+  height: 202px;
+  width: 413px;
+  display: block;
+  margin: auto;
+}
+.div1 button {
+  height: 200px;
+  width: 200px;
+}
+#Title {
+  color: white;
+  height: 150px;
+  background-color: #1d3aa1;
+  padding: 60px;
+  font-family: serif;
+  font-size: 30px;
+  text-align: center;
+  border-bottom: 4px solid white;
+}
+.em {
+  box-shadow: 5px 10px #3b3838;
+  opacity: 0.3;
+}
